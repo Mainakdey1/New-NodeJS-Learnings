@@ -1,0 +1,13 @@
+{
+  "name": "new-nodejs-learnings",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node server.js"
+  }
+}
